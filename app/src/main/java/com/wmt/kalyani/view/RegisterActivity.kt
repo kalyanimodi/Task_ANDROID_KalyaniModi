@@ -17,6 +17,7 @@ import com.wmt.kalyani.utils.ConstantCode
 import kotlinx.android.synthetic.main.activity_main.*
 
 
+
 class RegisterActivity : AppCompatActivity() {
 
     var emailPattern: String? = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+"
